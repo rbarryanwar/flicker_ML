@@ -1,2 +1,4 @@
 # flicker_ML
-trying out scikit-learn methods
+Jupyter notebook I've used for classification of ssvep data
+
+Includes KNN, K-folds, LOOCV, and SVM
